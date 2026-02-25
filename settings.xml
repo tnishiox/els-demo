@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
+    <servers>
+        <server>
+          <id>tuxcare-registry</id>
+          <username>username</username>
+          <password>password</password>
+        </server>
+    </servers>
+</settings>
